@@ -9,7 +9,7 @@
 ## ⚡ Technologies
 
 <p align="center">
-Check my <a href="https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F124Ww661HfmuEW2h5z3TU2bgIXMdNdvUlCPh7cDrQBKQ%2Fedit%23gid%3D0">TechRadar</a>. You are lazy? Alright here is a quick summary:
+Check my <a href="https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F124Ww661HfmuEW2h5z3TU2bgIXMdNdvUlCPh7cDrQBKQ%2Fedit%23gid%3D0">TechRadar</a>. In short? Alright here is a quick summary:
 </p>
 <p align="center">
 <!-- C# Stack !-->
