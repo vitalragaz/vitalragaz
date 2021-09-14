@@ -4,7 +4,9 @@
 
 
 ## 🌱 Current Projects
-<p align="center"><a href="https://github.com/caprover/caprover">CapRover</a> - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids</p>
+<p align="center">
+<a href="https://github.com/caprover/caprover">CapRover</a> - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids <br />
+</p>
 
 ## ⚡ Technologies
 
@@ -15,6 +17,8 @@ Check my <a href="https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fdocs.goo
 <!-- C# Stack !-->
 <img src="https://img.shields.io/badge/c_sharp-189f20.svg?&style=for-the-badge&logo=c-sharp&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/.net_5-6a4097.svg?&style=for-the-badge&logo=.net&logoColor=white" height="25"/>
+<!-- Blockchain !-->
+<img src="https://img.shields.io/badge/Solidity-dddddd.svg?&style=for-the-badge&logo=solidity&logoColor=black" height="25"/>
 <!-- JS Stack !-->
 <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/-NodeJs-6cc048.svg?&style=for-the-badge&logo=node.js&logoColor=white" height="25"/>
