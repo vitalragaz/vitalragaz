@@ -46,8 +46,6 @@ Check my <a href="https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fdocs.goo
 <!-- Tools !-->
 <img src="https://img.shields.io/badge/Docker-007ACC.svg?&style=for-the-badge&logo=docker&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Kubernetes-326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/-Github-000.svg?&style=for-the-badge&logo=github&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" height="25"/>
 </p>
 
 
