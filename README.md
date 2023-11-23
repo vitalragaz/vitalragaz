@@ -2,13 +2,6 @@
 
 <h3 align="center">A shy developer from Switzerland <img src="./assets/switzerland.svg" width="14"/> </h3>
 
-
-## 🌱 Current Projects
-<p align="center">
-  <a href="https://github.com/Diversify-io/diversify-core">Diversify</a> - A blockchain solution for modern investing. <br />
-<a href="https://github.com/caprover/caprover">CapRover</a> - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids <br />
-</p>
-
 ## ⚡ Technologies
 
 <!--<p align="center">
