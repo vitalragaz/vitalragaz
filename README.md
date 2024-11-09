@@ -42,10 +42,6 @@ Check my <a href="https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fdocs.goo
 </p>
 
 
-## &#x1f4c8; GitHub Stats
-<a href="https://github.com/vitalragaz/vitalragaz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vitalragaz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=9e9e9e&bg_color=1d1f21&hide=stars" alt="vitalragaz's GitHub Stats" />
-</a>
 
 
 <!--
